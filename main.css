@@ -77,6 +77,18 @@ border-radius: 8px;
 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+#image1, #image2, #image3, #image4, #image5, #image6, #image7 {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
 #img-caption {
 margin: 15px 0 5px 0;
 bottom: 10px;
